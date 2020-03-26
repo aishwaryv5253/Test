@@ -1,0 +1,217 @@
+body {
+	font-size: 13px;
+	font-family: 'Open Sans', Arial, sans-serif;
+	background: #fff;
+	color: #777
+}
+
+.wrapper {
+	background: url(../images/bg.png) #eee;
+	border-bottom: 1px solid #bbb;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+	box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+	padding: 30px 0
+}
+.input-append input, .input-append select, .input-append .uneditable-input {
+
+    width: 450px;
+    margin-left: 194px;
+}
+
+.navbar {
+	position: static!important;
+	margin: 0!important
+}
+
+.btn{
+	width: 94px;
+	background: #29b7d3;
+}
+.widget-menu .meeting {
+	color: #29b7d3;
+}
+		
+
+
+.btn-box i {
+	font-size: 36px;
+	line-height: 36px;
+	height: 36px;
+	color: #29b7d3;
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+}
+
+.span9 {
+    width: 825px;
+}
+
+.widget .progress {
+	margin-bottom: 0
+}
+.widget-menu {
+	background: #fff;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	overflow: hidden
+}
+.widget-menu a {
+	color: #555;
+	display: block;
+	line-height: 20px;
+	padding: 15px;
+	text-decoration: none!important
+	
+}
+.fontsize{
+	font-size: 25px;
+	font-family: 'Open Sans', Arial, sans-serif;
+	color:black;
+	font-weight: bold;
+	margin-left: 330px;
+    
+}
+
+.fontsize1{
+	font-size: 18px;
+	font-family: 'Open Sans', Arial, sans-serif;
+	color:black;
+	font-weight: bold;
+	margin-left: 330px;
+    margin-top: 210px;
+}
+
+.panels{
+	margin: 0px 70px 0px 0px; 
+	line-height: 15px;
+	background-color: white;
+	font-size: 10px;
+	font-family: 'Open Sans', Arial, sans-serif;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+}
+
+.btn-box {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 0px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    text-align: center;
+    text-decoration: none!important;
+    padding: 17px 0;
+    margin: 0px 0 10px;
+}
+
+.span4 {
+	width: 273px;
+	margin-top: 25px;
+}
+
+.row-fluid {
+	margin-top: 10px;
+	
+}
+
+.row-fluid .span4 {
+    width: 30.623932%;
+    
+}
+
+.row-fluid [class*="span"]:first-child {
+    margin-left: 20px;
+}
+
+
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	max-width: 300px;
+	margin: auto;
+	text-align: center;
+	font-family: arial;
+	margin-top: 30px;
+	color: black;
+    
+
+  }
+  
+  .title {
+	color: grey;
+	font-size: 18px;
+  }
+  
+  button {
+	border: none;
+	outline: 0;
+	display: inline-block;
+	padding: 8px;
+	color: white;
+	background-color: #000;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 18px;
+  }
+  
+  @media(max-width:667px){
+	.body{
+		padding:0!important;
+		width: 838px;
+	}
+	
+  .wrapper{
+	  padding:20px 15px
+	}
+
+  .navbar {
+    width: 836px;
+    position: static!important;
+    margin: 0!important;
+}
+body {
+    font-size: 13px;
+    font-family: 'Open Sans', Arial, sans-serif;
+    background: #fff;
+    color: #777;
+    width: 838px;
+}
+
+.input-append input, .input-append select, .input-append .uneditable-input {
+    width: 450px;
+    margin-left: 118px;
+}
+
+.span4 {
+    width: 806px;
+    margin-top: 40px;
+}
+
+.fontsize1 {
+    font-size: 18px;
+    font-family: 'Open Sans', Arial, sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-left: 330px;
+    margin-top: 48px;
+}
+
+.fontsize {
+    font-size: 25px;
+    font-family: 'Open Sans', Arial, sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-left: 330px;
+    margin-top: 45px;
+}
+
+}
+
+
+  
+  
+
